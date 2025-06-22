@@ -10,3 +10,13 @@
 - Tractor Requirement: 20–30 HP (Category I three-point hitch)
 - Weight: Approx. 320 kg
 - Speed: 4 mph
+
+![Sales Poster](HT5-MeadowMaster-HayTurner-Sales.png)
+
+## Operator’s Manual (Extract) – 1953 Edition
+
+### Section II – Daily Operation
+2.1 – Attaching to Tractor
+Ensure the tractor engine is off and the brakes fully engaged. The MeadowMaster is designed for use with a Category I three-point hitch. Back the tractor squarely and align the lift arms with the implement’s hitch lugs. Secure all pins with appropriate linchpins. Connect the PTO shaft, ensuring all guards are in place.
+
+⚠ Caution: Never operate the MeadowMaster without all PTO guards and shaft covers in position.
