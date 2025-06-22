@@ -10,7 +10,7 @@
 
 CM-60 “The Hedgerow” Cylinder Mower
 
-HT5 “MeadowMaster” Hay Turner (Tedder)
+![HT5 “MeadowMaster” Hay Turner (Tedder)](Hermitage/HT5-MeadowMaster-HayTurner.md)
 
 HW-4 “The Raker” Hay Rake (Windrower)
 
