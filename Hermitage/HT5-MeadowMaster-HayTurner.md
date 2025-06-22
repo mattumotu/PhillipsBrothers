@@ -4,7 +4,7 @@
 
 ![HT5 MeadowMaster](HT5-MeadowMaster-HayTurner.png)
 
-- Line: Hermitage Works
+- Line: [Hermitage Works](../README.md#hermitage-line---traditional-craftsmanship-heritage-performance)
 - Release Year: 1953
 - Working Width: 5 feet (1.52 m)
 - Tractor Requirement: 20–30 HP (Category I three-point hitch)
