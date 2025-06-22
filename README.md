@@ -1,4 +1,4 @@
-# Phillips Brothers of Surrey
+![Phillips Brothers of Surrey](Img/Phillips_Brothers_Title.png)
 
 ## Catalogue
 
