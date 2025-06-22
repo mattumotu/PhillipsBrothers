@@ -1,6 +1,29 @@
 # Phillips Brothers of Surrey
 
-## A Brief History of Phillips Brothers of Surrey
-Founded in 1952, Phillips Brothers of Surrey began as a small agricultural engineering workshop run by Albert and George Phillips, two brothers from the village of Box Hill, near Dorking. Both men were veterans of the Second World War—Albert a tank mechanic, George a logistics officer—and returned home determined to support Britain’s post-war agricultural revival.
-Starting out in a converted barn on their family’s smallholding, the brothers began repairing tractors and fabricating simple implements for local farms. Word of their craftsmanship spread quickly through the Surrey countryside, and by 1956, they were producing their own line of small-scale haymaking equipment under the Hermitage Works brand, named after the nearby hamlet of Hermitage where they later built a dedicated workshop.
-Their breakthrough came with the launch of the CM60 Compact Baler, a lightweight, PTO-driven square baler designed for the smaller British fields and lower horsepower tractors common at the time. Rugged, reliable, and affordably priced, the CM60 became a common sight on farms across the South East and beyond.
+## Catalogue
+
+## Hermitage Line - *Traditional Craftsmanship. Heritage Performance.*
+
+The Hermitage Line celebrates Phillips Brothers’ roots near Box Hill and Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs. Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability.
+
+CM-60 “The Hedgerow” Cylinder Mower
+
+HT5 “MeadowMaster” Hay Turner (Tedder)
+
+HW-4 “The Raker” Hay Rake (Windrower)
+
+SB-50 "The Surrey Star" Small Square Baler
+
+TH-15 "Hermit" Hay Trailer
+
+## Chobham Series – *Strength Where It Counts.*
+
+PL-2 “Furrowman” Mounted Plough
+
+PL-4 “SuperFurrow” Four-Furrow Mounted Plough
+
+TT-25 "The Barn Runner" Grain & Tipping Trailer
+Release Year: 1957
+Tractor Requirement: 20–30 HP
+Load Capacity: 2000 kg (4,400 lbs) or 2,496 liters
+Unladen Weight: 450 kg (990 lbs)
