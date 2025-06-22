@@ -39,7 +39,8 @@ Before each day’s use, apply grease to the following points:
 
 Check all tines for damage or looseness. Replace any broken tines with genuine Phillips Brothers replacements only.
 
-Section III – Storage and Preservation
+### Section III – Storage and Preservation
+
 3.1 – After Use
 After operation, clean the MeadowMaster thoroughly with a brush and rag. Avoid high-pressure water sprays, which may displace lubricants. Apply a light coating of oil to all exposed iron parts before storage.
 
