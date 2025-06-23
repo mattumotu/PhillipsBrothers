@@ -11,7 +11,7 @@
 - Weight: Approx. 320 kg
 - Speed: 4 mph
 
-![Sales Poster](HT5-MeadowMaster-HayTurner-Sales.png)
+![Sales Poster](Img/HT5-MeadowMaster-HayTurner-Sales.png)
 
 ## Operator’s Manual (Extract) – 1953 Edition
 
