@@ -11,6 +11,6 @@
 - Weight: Approx. 310 kg
 - Speed: 4 mph
 
-![Sales Poster](Img/HR5-FieldMate-SpiralHayRake.png)
+![Sales Poster](Img/HR5-FieldMate-SpiralHayRake-Sales.png)
 
 ## Operator’s Manual (Extract)
