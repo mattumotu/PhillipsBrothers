@@ -16,7 +16,7 @@ Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol 
 | Surrey Blue 	| #3D5A6C	| (61, 90, 108) 	| Accent parts, cabs, signage | 
 | Workshop Grey	| #A9A9A9	| (169, 169, 169)	| Frames, levers, small parts | 
 
-[Phillips Brothers Colour Scheme](Img/ColourScheme-PhillipsBrothers.png) 
+![Phillips Brothers Colour Scheme](Img/ColourScheme-PhillipsBrothers.png) 
 
 ## Hermitage Works Colour Scheme
 
@@ -26,7 +26,7 @@ Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol 
 | Cream White     | #FDF5E6 | Vintage-style stencil or serif text | Decals & Text      | 
 | Blackened Steel | #2E2E2E | Matte black with industrial appeal  | Frames & Metalwork | 
 
-[Hermitage Works Colour Scheme](Img/ColourScheme-HermitageWorks.png) 
+![Hermitage Works Colour Scheme](Img/ColourScheme-HermitageWorks.png) 
 
 ## Chobham Series Colour Scheme
 
@@ -36,5 +36,5 @@ Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol 
 | Harvest Yellow        | #C8A951 | Safety stencils, optional highlights |
 | Graphite Black        | #2E2E2E | Frames, undercarriage, drawbars      | 
 
-[Chobham Series Colour Scheme](Img/ColourScheme-ChobhamSeries.png) 
+![Chobham Series Colour Scheme](Img/ColourScheme-ChobhamSeries.png) 
  
