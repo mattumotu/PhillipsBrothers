@@ -8,7 +8,7 @@
 
 > The Hermitage Line celebrates Phillips Brothers’ roots near Box Hill and Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs. Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability.
 
-CM-60 “The Hedgerow” Cylinder Mower
+[HM65 “FieldCutter” Hay Mower](Hermitage/HM65-FieldCutter-HayMower.md)
 
 [HT5 “MeadowMaster” Hay Turner (Tedder)](Hermitage/HT5-MeadowMaster-HayTurner.md)
 
