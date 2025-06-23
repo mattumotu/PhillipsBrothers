@@ -3,9 +3,7 @@
 ## Catalogue
 
 ## Hermitage Line - *Traditional Craftsmanship. Heritage Performance.*
-
 ![Hermitage Works](Img/Hermitage-works-logo.png)
-
 > The Hermitage Line celebrates Phillips Brothers’ roots near Box Hill and Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs. Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability.
 
 [HM65 “FieldCutter” Hay Mower](Hermitage/HM65-FieldCutter-HayMower.md)
