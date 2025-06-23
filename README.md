@@ -1,6 +1,6 @@
 ![Phillips Brothers of Surrey](Img/Phillips_Brothers_Title.png)
 
-## Catalogue
+## Product Catalogue
 
 ## Hermitage Line - *Traditional Craftsmanship. Heritage Performance.*
 ![Hermitage Works](Img/Hermitage-works-logo.png)
@@ -10,7 +10,7 @@
 
 [HT5 “MeadowMaster” Hay Turner (Tedder)](Hermitage/HT5-MeadowMaster-HayTurner.md)
 
-HW-4 “The Raker” Hay Rake (Windrower)
+[HR5 “FieldMate” Spiral Hay Rake (Windrower)](Heritage/HR5-FieldMate-SpiralHayRake.md)
 
 SB-50 "The Surrey Star" Small Square Baler
 
@@ -27,7 +27,7 @@ PL-2 “Furrowman” Mounted Plough
 PL-4 “SuperFurrow” Four-Furrow Mounted Plough
 
 TT-25 "The Barn Runner" Grain & Tipping Trailer
-Release Year: 1957
-Tractor Requirement: 20–30 HP
-Load Capacity: 2000 kg (4,400 lbs) or 2,496 liters
-Unladen Weight: 450 kg (990 lbs)
+
+## Company History
+
+[A History of Phillips Brothers of Surrey](History.md)
