@@ -2,7 +2,10 @@
 
 ## Product Catalogue
 
-## Hermitage Line - *Traditional Craftsmanship. Heritage Performance.*
+## Hermitage Line
+
+*Traditional Craftsmanship. Heritage Performance.*
+
 ![Hermitage Works](Img/Hermitage-works-logo.png)
 > The Hermitage Line celebrates Phillips Brothers’ roots near Box Hill and Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs. Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability.
 
@@ -16,7 +19,9 @@ SB-50 "The Surrey Star" Small Square Baler
 
 TH-15 "Hermit" Hay Trailer
 
-## Chobham Series – *Strength Where It Counts.*
+## Chobham Series 
+
+*Strength Where It Counts.*
 
 ![Chobham Line](Img/Chobham-Line.png)
 
