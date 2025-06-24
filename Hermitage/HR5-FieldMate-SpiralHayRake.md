@@ -26,10 +26,7 @@ With the rake engaged at working height, proceed forward at a steady pace of 3 t
 Swath width and rake angle may be adjusted via the main drawbar pivot and spring-loaded wheel mount. For heavier or wetter crops, tilt the bars slightly forward to increase pickup aggressiveness. For dry, delicate hay, a flatter rake angle is preferred to minimise leaf loss.
 
 ### Maintenance Notes (Summary)
-Grease tine bar hubs every 10 hours of use
-
-Check chain tension via the inspection cap on gearbox housing
-
-Inspect spiral bars for wear or bending after each use
-
-Store under cover when not in use to preserve finish and bearings
+- Grease tine bar hubs every 10 hours of use
+- Check chain tension via the inspection cap on gearbox housing
+- Inspect spiral bars for wear or bending after each use
+- Store under cover when not in use to preserve finish and bearings
