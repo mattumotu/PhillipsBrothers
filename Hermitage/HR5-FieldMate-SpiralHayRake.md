@@ -1,4 +1,4 @@
-# HR-5 “FieldMate” Spiral Hay Rake
+# HR-5 “FieldMate” Spiral Hay Rake (Windrower)
 
 > The HR-5 “FieldMate” Spiral Hay Rake from Phillips Brothers of Surrey’s Hermitage Works Line is a compact, ground-driven rake built for the demands of British smallholdings. With a 5-foot working width and three spiral bars, it forms clean, consistent swaths ideal for baling or drying. Designed for tractors in the 20–30 HP range, the FieldMate combines rugged steel construction with classic styling, featuring heritage green livery and a riveted nameplate. Simple to maintain and light on the lift, it’s the dependable choice for narrow fields, tight turns, and time-honoured haymaking.
 
