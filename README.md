@@ -13,7 +13,7 @@
 
 [HT5 “MeadowMaster” Hay Turner (Tedder)](Hermitage/HT5-MeadowMaster-HayTurner.md)
 
-[HR5 “FieldMate” Spiral Hay Rake (Windrower)](Heritage/HR5-FieldMate-SpiralHayRake.md)
+[HR5 “FieldMate” Spiral Hay Rake (Windrower)](Hermitage/HR5-FieldMate-SpiralHayRake.md)
 
 SB-50 "The Surrey Star" Small Square Baler
 
