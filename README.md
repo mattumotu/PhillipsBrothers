@@ -11,13 +11,10 @@
 ## Product Catalogue
 
 ## Hermitage Works
-
-*Traditional Craftsmanship. Heritage Performance.*
-
+*Traditional Tools. Modern Work.*
 [<img src="HermitageWorks/Img/Logo-HermitageWorks.png" width="100" alt="Hermitage Works Logo" />](HermitageWorks/Img/Logo-HermitageWorks.png)
-> The Hermitage Line celebrates Phillips Brothers’ roots near Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs.
-> Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability.
-> Concentrating on hay making and grassland management.
+> The Hermitage Works Line offers reliable, small-scale implements designed for hay, grass, and ground care on modern British smallholdings.
+> Rooted in post-war craftsmanship, these machines combine classic simplicity with everyday practicality.
 
 [Hermitage Works Launch Poster](Hermitage/LaunchPoster-HermitageWorks.png)
 
@@ -32,13 +29,10 @@ SB-50 "The Surrey Star" Small Square Baler
 TH-15 "Hermit" Hay Trailer
 
 ## Chobham Line 
-
 *Strength Where It Counts.*
-
-[<img src="ChobhamLine/Img/Logo-Chobham-Line.png" width="100" alt="Chobham Line Logo" />](ChobhamLine/Img/Logo-Chobham-Line.png)
-> The Chobham Line is a rugged, utility-focused range from Phillips Brothers, finished in military-inspired olive and graphite.
-> Built for strength and reliability, it’s designed to handle tough farm work with no-nonsense engineering.
-
+[<img src="ChobhamLine/Img/Logo-ChobhamLine.png" width="100" alt="Chobham Line Logo" />](ChobhamLine/Img/Logo-ChobhamLine.png)
+> The Chobham Line is Phillips Brothers’ toughest range yet—built for heavy-duty tasks like ploughing, hauling, and ground preparation.
+> With reinforced steel frames and no-nonsense engineering, it’s made to handle the hard graft of the British farm.
 [<img src="ChobhamLine/Img/LaunchPoster-ChobhamLine.png" width="200" alt="Chobham Line Launch Poster" />](ChobhamLine/Img/LaunchPoster-ChobhamLine.png)
 
 PL-2 “Furrowman” Mounted Plough
@@ -48,11 +42,8 @@ PL-4 “SuperFurrow” Four-Furrow Mounted Plough
 TT-25 "The Barn Runner" Grain & Tipping Trailer
 
 ## Brooklands Range
-
-*Clean lines. Clear purpose. Quiet strength.*
+*Compact Power. Built to Last.*
 [<img src="BrooklandsRange/Img/Logo-BrooklandsRange.png" width="100" alt="Brooklands Range Logo" />](BrooklandsRange/Img/Logo-BrooklandsRange.png)
-
-> Inspired by Britain’s legacy of engineering excellence, the Brooklands Range brings a new line of compact, dependable tractors purpose-built for smallholdings and mixed farms.
-> Whether it’s towing, tilling, or transport — the Brooklands tractor is engineered to deliver, season after season.
-
+> The Brooklands Range from Phillips Brothers delivers compact, dependable tractors engineered for modern smallholdings and mixed farms.
+> Designed in Surrey with robust mechanics and straightforward controls, they’re built to work hard and last long—season after season.
 [<img src="BrooklandsRange/Img/LaunchPoster-BrooklandsRange.png" width="200" alt="Brooklands Range Launch Poster" />](BrooklandsRange/Img/LaunchPoster-BrooklandsRange.png)
