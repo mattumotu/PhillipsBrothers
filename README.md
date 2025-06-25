@@ -14,7 +14,7 @@
 
 *Traditional Craftsmanship. Heritage Performance.*
 
-[<img src="Img/Hermitage-works-logo.png" width="100" alt="Hermitage Works Logo" />](Img/Hermitage-works-logo.png)
+[<img src="HermitageWorks/Img/Logo-HermitageWorks.png" width="100" alt="Hermitage Works Logo" />](HermitageWorks/Img/Logo-HermitageWorks.png)
 > The Hermitage Line celebrates Phillips Brothers’ roots near Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs.
 > Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability.
 > Concentrating on hay making and grassland management.
