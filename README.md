@@ -1,5 +1,13 @@
 ![Phillips Brothers of Surrey](Img/Phillips_Brothers_Title.png)
 
+## Company History
+
+[A History of Phillips Brothers of Surrey](History.md)
+
+## Company Branding
+
+[Company Branding Guide](/data/Branding.md)
+
 ## Product Catalogue
 
 ## Hermitage Line
@@ -33,6 +41,4 @@ PL-4 “SuperFurrow” Four-Furrow Mounted Plough
 
 TT-25 "The Barn Runner" Grain & Tipping Trailer
 
-## Company History
 
-[A History of Phillips Brothers of Surrey](History.md)
