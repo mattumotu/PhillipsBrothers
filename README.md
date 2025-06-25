@@ -39,7 +39,7 @@ TH-15 "Hermit" Hay Trailer
 > The Chobham Line is a rugged, utility-focused range from Phillips Brothers, finished in military-inspired olive and graphite.
 > Built for strength and reliability, it’s designed to handle tough farm work with no-nonsense engineering.
 
-[Chobham Line Launch Poster](ChobhamLine/LaunchPoster-ChobhamLine.png)
+[Chobham Line Launch Poster<img src="ChobhamLine/Img/LaunchPoster-ChobhamLine.png" width="200" />](ChobhamLine/Img/LaunchPoster-ChobhamLine.png)
 
 PL-2 “Furrowman” Mounted Plough
 
