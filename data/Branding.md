@@ -6,7 +6,7 @@ Brand Ethos:
 "Built for Britain. Crafted to Last."
 Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol of post-war resilience, mechanical honesty, and dependable farm engineering. Established by veterans and craftsmen, the brand continues to stand for legacy, reliability, and honest British work.
 
-![Phillips Brothers Logo](Img/Logo-PhillipsBrothers.png) 
+![Phillips Brothers Logo](../Img/Logo-PhillipsBrothers.png) 
 
 ## Phillips Brothers Main Company Colour Scheme
 
@@ -23,7 +23,7 @@ Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol 
 The company produces the following product lines.
 
 ## Hermitage Works
-![Hermitage Works Logo](Img/Logo-HermitageWorks.png) 
+![Hermitage Works Logo](../HermitageWorks/Img/Logo-HermitageWorks.png) 
 
 > The Hermitage Line celebrates Phillips Brothers’ roots near Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs. Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability. Concentrating on hay making and grassland management.
 
@@ -38,7 +38,7 @@ The company produces the following product lines.
 ![Hermitage Works Colour Scheme](Img/ColourScheme-HermitageWorks.png) 
 
 ## Chobham Line
-![Chobham Line Logo](Img/Logo-ChobhamLine.png) 
+![Chobham Line Logo](../ChobhamLine/Img/Logo-ChobhamLine.png) 
 
 > The Chobham Line is a rugged, utility-focused range from Phillips Brothers, finished in military-inspired olive and graphite. Built for strength and reliability, it’s designed to handle tough farm work with no-nonsense engineering. Tough engineering like ploughs and trailers.
 
@@ -51,7 +51,7 @@ The company produces the following product lines.
 ![Chobham Series Colour Scheme](Img/ColourScheme-ChobhamSeries.png) 
 
 ## Brooklands Range
-![Brooklands Range Logo](Img/Logo-BrooklandsRange.png) 
+![Brooklands Range Logo](../BrooklandsRange/Img/Logo-BrooklandsRange.png) 
 
 > Inspired by Britain’s legacy of engineering excellence, the Brooklands Range brings a new line of compact, dependable tractors purpose-built for smallholdings and mixed farms.
 > Designed at Hermitage Works and tested in the Surrey clay, these tractors combine modern reliability with traditional sensibilities: straightforward controls, robust mechanics, and the trademark no-nonsense build our name stands for.
