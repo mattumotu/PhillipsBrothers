@@ -74,6 +74,9 @@ Livery	Brooklands Blue body, Industrial Brass accents, Hangar Grey chassis
 Use Case: Ideal for towing hay rakes, managing small paddocks, or powering vintage-style implements like tedders and seeders.
 
 BT-35 "ClayMaster" Compact Tractor
+
+[<img src="BrooklandsRange/Img/SpecSheet-BT35-ClayMaster.png" width="200" alt="BT-35 ClayMaster Spec Sheet" />](BrooklandsRange/Img/SpecSheet-BT35-ClayMaster.png)
+
 🛠️ BT-35 "ClayMaster" Compact Tractor
 Purpose: Mid-range compact tractor for heavier tasks, cultivation, and year-round duties.
 
