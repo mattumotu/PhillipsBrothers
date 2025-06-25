@@ -51,4 +51,43 @@ TT-25 "The Barn Runner" Grain & Tipping Trailer
 > The Brooklands Range from Phillips Brothers delivers compact, dependable tractors engineered for modern smallholdings and mixed farms.
 > Designed in Surrey with robust mechanics and straightforward controls, they’re built to work hard and last long—season after season.
 
+BT-20 "FieldStar" Utility Tractor
+
+🛠️ BT-20 "FieldStar" Utility Tractor
+Purpose: Versatile light-duty tractor for general farm tasks, towing, and small implements.
+
+Specification	Details
+Engine	3-cylinder diesel, naturally aspirated
+Horsepower	20 HP
+Transmission	6-speed manual (3 forward, 1 reverse, high/low range)
+Drive Type	2WD (optional 4WD)
+PTO	Rear PTO – 540 RPM
+Hydraulics	Single rear hydraulic outlet (open centre)
+3-Point Hitch	Category I
+Top Speed	15 mph (24 km/h)
+Weight	950 kg
+Dimensions	2.8 m L × 1.4 m W × 1.8 m H
+Livery	Brooklands Blue body, Industrial Brass accents, Hangar Grey chassis
+
+Use Case: Ideal for towing hay rakes, managing small paddocks, or powering vintage-style implements like tedders and seeders.
+
+BT-35 "ClayMaster" Compact Tractor
+🛠️ BT-35 "ClayMaster" Compact Tractor
+Purpose: Mid-range compact tractor for heavier tasks, cultivation, and year-round duties.
+
+Specification	Details
+Engine	4-cylinder diesel, direct injection
+Horsepower	35 HP
+Transmission	8-speed synchromesh (6F + 2R)
+Drive Type	4WD with selectable 2WD mode
+PTO	Rear and mid PTO – 540/1000 RPM
+Hydraulics	Dual rear hydraulic outlets
+3-Point Hitch	Category I
+Top Speed	20 mph (32 km/h)
+Weight	1,450 kg
+Dimensions	3.1 m L × 1.6 m W × 2.0 m H
+Livery	Brooklands Blue panels, Industrial Brass trim, Hangar Grey undercarriage
+
+Use Case: Suitable for tillage, baling, orchard mowing, and transport of larger loads on rough terrain.
+
 [<img src="BrooklandsRange/Img/LaunchPoster-BrooklandsRange.png" width="200" alt="Brooklands Range Launch Poster" />](BrooklandsRange/Img/LaunchPoster-BrooklandsRange.png)
