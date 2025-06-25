@@ -8,18 +8,6 @@ Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol 
 
 ![Phillips Brothers Logo](Img/Logo-PhillipsBrothers.png) 
 
-# Product Lines
-
-The company produces the following product lines.
-
-## Hermitage Works
-![Hermitage Works Logo](Img/Logo-HermitageWorks.png) 
-
-## Chobham Line
-![Chobham Line Logo](Img/Logo-ChobhamLine.png) 
-
-# Colour Schemes
-
 ## Phillips Brothers Main Company Colour Scheme
 
 | Identifier | Colour Name   | Hex     | RGB             | Use                         |
@@ -30,7 +18,12 @@ The company produces the following product lines.
 
 ![Phillips Brothers Colour Scheme](Img/ColourScheme-PhillipsBrothers.png) 
 
-## Product Line Colour Schemes
+# Product Lines
+
+The company produces the following product lines.
+
+## Hermitage Works
+![Hermitage Works Logo](Img/Logo-HermitageWorks.png) 
 
 ### Hermitage Works Colour Scheme
 
@@ -40,10 +33,10 @@ The company produces the following product lines.
 | Secondary  | Cream White     | #FDF5E6 | (253, 245, 230) | Accent parts, cabs, signage |
 | Tertiary   | Blackened Steel | #2E2E2E | (46, 46, 46)    | Frames, levers, small parts |
 
-
 ![Hermitage Works Colour Scheme](Img/ColourScheme-HermitageWorks.png) 
 
-### Chobham Series Colour Scheme
+## Chobham Line
+![Chobham Line Logo](Img/Logo-ChobhamLine.png) 
 
 | Identifier | Colour Name         | Hex     | RGB            | Use                         |
 |------------|---------------------|---------|----------------|-----------------------------|
@@ -51,9 +44,20 @@ The company produces the following product lines.
 | Secondary  | Harvest Yellow      | #C8A951 | (200, 169, 81) | Accent parts, cabs, signage |
 | Tertiary   | Graphite Black      | #1E1E1E | (30, 30, 30)   | Frames, levers, small parts |
 
-
-
 ![Chobham Series Colour Scheme](Img/ColourScheme-ChobhamSeries.png) 
+
+## Brooklands Range
+![Brooklands Range Logo](Img/Logo-BrooklandsRange.png) 
+
+### Brooklands Range Colour Scheme
+
+| Identifier | Colour Name      | Hex     | RGB            | Use                         |
+|------------|------------------|---------|----------------|-----------------------------|
+| Primary    | Brooklands Blue  | #3C4F76 | (60, 79, 118)  | Primary machine colour      |
+| Secondary  | Industrial Brass | #B79B55 | (183, 155, 85) | Accent parts, cabs, signage |
+| Tertiary   | Hangar Grey      | #595959 | (89, 89, 89)   | Frames, levers, small parts |
+
+![Brooklands Range Colour Scheme](Img/ColourScheme-BrooklandsRange.png) 
 
 # Logo
 
