@@ -6,12 +6,17 @@ Brand Ethos:
 "Built for Britain. Crafted to Last."
 Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol of post-war resilience, mechanical honesty, and dependable farm engineering. Established by veterans and craftsmen, the brand continues to stand for legacy, reliability, and honest British work.
 
+![Phillips Brothers Logo](Img/Logo-PhillipsBrothers.png) 
+
 # Product Lines
 
 The company produces the following product lines.
 
 ## Hermitage Works
+![Hermitage Works Logo](Img/Logo-HermitageWorks.png) 
+
 ## Chobham Line
+![Chobham Line Logo](Img/Logo-ChobhamLine.png) 
 
 # Colour Schemes
 
@@ -70,9 +75,14 @@ Transparent background
 ### Style
 Overall, the design evokes a 1950s British agricultural or industrial identity, fitting well with the theme of a classic farm equipment manufacturer.
 
+
+
 ## Product Line Logos
 
 Each product line should have it's own logo based on the following specifications.
+
+### Size and Shape
+The logo should be rectangular, wider than it is tall, with a ratio of approximately  10 : 7
 
 ### Typography
 The name of the product line should be split into two, presented one above the other. They are written in bold, all-uppercase letters using a condensed, blocky serif typeface evocative of 1950s British signage or railway/industrial stenciling.
