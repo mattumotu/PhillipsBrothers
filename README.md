@@ -17,7 +17,7 @@
 > The Hermitage Works Line offers reliable, small-scale implements designed for hay, grass, and ground care on modern British smallholdings.
 > Rooted in post-war craftsmanship, these machines combine classic simplicity with everyday practicality.
 
-[Hermitage Works Launch Poster](Hermitage/LaunchPoster-HermitageWorks.png)
+[<img src="HermitageWorks/Img/LaunchPoster-HermitageWorks.png" width="200" alt="Hermitage Works Launch Poster" />](HermitageWorks/Img/LaunchPoster-HermitageWorks.png)
 
 [HM65 “FieldCutter” Hay Mower](Hermitage/HM65-FieldCutter-HayMower.md)
 
