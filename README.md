@@ -53,6 +53,8 @@ TT-25 "The Barn Runner" Grain & Tipping Trailer
 
 BT-20 "FieldStar" Utility Tractor
 
+[<img src="BrooklandsRange/Img/SpecSheet-BT20-FieldStar.png" width="200" alt="BT-20 FieldStar Spec Sheet" />](BrooklandsRange/Img/SpecSheet-BT20-FieldStar.png)
+
 🛠️ BT-20 "FieldStar" Utility Tractor
 Purpose: Versatile light-duty tractor for general farm tasks, towing, and small implements.
 
