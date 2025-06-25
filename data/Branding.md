@@ -25,6 +25,8 @@ The company produces the following product lines.
 ## Hermitage Works
 ![Hermitage Works Logo](Img/Logo-HermitageWorks.png) 
 
+> The Hermitage Line celebrates Phillips Brothers’ roots near Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs. Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability. Concentrating on hay making and grassland management.
+
 ### Hermitage Works Colour Scheme
 
 | Identifier | Colour Name     | Hex     | RGB             | Use                         |
@@ -38,6 +40,8 @@ The company produces the following product lines.
 ## Chobham Line
 ![Chobham Line Logo](Img/Logo-ChobhamLine.png) 
 
+> The Chobham Line is a rugged, utility-focused range from Phillips Brothers, finished in military-inspired olive and graphite. Built for strength and reliability, it’s designed to handle tough farm work with no-nonsense engineering. Tough engineering like ploughs and trailers.
+
 | Identifier | Colour Name         | Hex     | RGB            | Use                         |
 |------------|---------------------|---------|----------------|-----------------------------|
 | Primary    | Chobham Olive Green | #4B5B3F | (75, 91, 63)   | Primary machine colour      |
@@ -48,6 +52,12 @@ The company produces the following product lines.
 
 ## Brooklands Range
 ![Brooklands Range Logo](Img/Logo-BrooklandsRange.png) 
+
+> Inspired by Britain’s legacy of engineering excellence, the Brooklands Range brings a new line of compact, dependable tractors purpose-built for smallholdings and mixed farms.
+> Designed at Hermitage Works and tested in the Surrey clay, these tractors combine modern reliability with traditional sensibilities: straightforward controls, robust mechanics, and the trademark no-nonsense build our name stands for.
+> Whether it’s towing, tilling, or transport — the Brooklands tractor is engineered to deliver, season after season.
+>
+> Clean lines. Clear purpose. Quiet strength.
 
 ### Brooklands Range Colour Scheme
 
@@ -86,7 +96,7 @@ Overall, the design evokes a 1950s British agricultural or industrial identity, 
 Each product line should have it's own logo based on the following specifications.
 
 ### Size and Shape
-The logo should be rectangular, wider than it is tall, with a ratio of approximately  10 : 7
+The logo should be rectangular, with rounded corners following the border, wider than it is tall, with a ratio of approximately  10 : 7
 
 ### Typography
 The name of the product line should be split into two, presented one above the other. They are written in bold, all-uppercase letters using a condensed, blocky serif typeface evocative of 1950s British signage or railway/industrial stenciling.
