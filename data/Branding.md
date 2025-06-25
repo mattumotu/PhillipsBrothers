@@ -22,7 +22,7 @@ Rooted in Surrey’s farming heartland, Phillips Brothers of Surrey is a symbol 
 
 | Name            | Hex     | RGB             | Use                         |
 |-----------------|---------|-----------------|-----------------------------|
-| Oxide Red       | #7A1E1E | (122, 30, 30)   | Primary machine colour      |
+| Oxide Red       | #6B322A | (107, 50, 42)   | Primary machine colour      |
 | Cream White     | #FDF5E6 | (253, 245, 230) | Accent parts, cabs, signage |
 | Blackened Steel | #2E2E2E | (46, 46, 46)    | Frames, levers, small parts |
 
