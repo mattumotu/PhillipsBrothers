@@ -12,7 +12,7 @@
 
 ## Hermitage Works
 [<img src="HermitageWorks/Img/Logo-HermitageWorks.png" width="100" alt="Hermitage Works Logo" />](HermitageWorks/Img/Logo-HermitageWorks.png)
-*Traditional Tools. Modern Work.*
+*Crafted at Hermitage. Trusted in the field. Built for seasons to come.*
 
 > The Hermitage Works Line offers reliable, small-scale implements designed for hay, grass, and ground care on modern British smallholdings.
 > Rooted in post-war craftsmanship, these machines combine classic simplicity with everyday practicality.
