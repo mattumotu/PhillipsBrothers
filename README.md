@@ -19,11 +19,11 @@
 
 [<img src="HermitageWorks/Img/LaunchPoster-HermitageWorks.png" width="200" alt="Hermitage Works Launch Poster" />](HermitageWorks/Img/LaunchPoster-HermitageWorks.png)
 
-[HM65 “FieldCutter” Hay Mower](HermitageWorks/HM65-FieldCutter-HayMower.md)
+[HM65 “FieldCutter” Hay Mower](HermitageWorks/Product-HM65-FieldCutter-HayMower.md)
 
-[HT5 “MeadowMaster” Hay Turner (Tedder)](HermitageWorks/HT5-MeadowMaster-HayTurner.md)
+[HT5 “MeadowMaster” Hay Turner (Tedder)](HermitageWorks/Product-HT5-MeadowMaster-HayTurner.md)
 
-[HR5 “FieldMate” Spiral Hay Rake (Windrower)](HermitageWorks/HR5-FieldMate-SpiralHayRake.md)
+[HR5 “FieldMate” Spiral Hay Rake (Windrower)](HermitageWorks/Product-HR5-FieldMate-SpiralHayRake.md)
 
 SB-50 "The Surrey Star" Small Square Baler
 
