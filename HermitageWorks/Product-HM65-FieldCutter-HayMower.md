@@ -2,7 +2,7 @@
 
 > Product description
 
-![CM-60 The Hedgerow](Img/HM65-FieldCutter-HayMower.png)
+![HM-65 FieldCutter](Img/HM65-FieldCutter-HayMower.png)
 
 - Line: [Hermitage Works](../README.md#hermitage-line---traditional-craftsmanship-heritage-performance)
 - Release Year: 1955
