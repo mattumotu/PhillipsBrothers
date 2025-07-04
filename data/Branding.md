@@ -25,7 +25,9 @@ The company produces the following product lines.
 ## Hermitage Works
 ![Hermitage Works Logo](../HermitageWorks/Img/Logo-HermitageWorks.png) 
 
-> The Hermitage Line celebrates Phillips Brothers’ roots near Hermitage Farm, offering vintage-styled, small-scale equipment inspired by their earliest post-war designs. Built for smallholders, heritage farms, and estate work, these machines blend nostalgic styling with modern-day usability. Concentrating on hay making and grassland management.
+Tag line: Crafted at Hermitage. Trusted in the field. Built for seasons to come.
+
+> The Hermitage Works Line offers reliable, small-scale implements designed for hay, grass, and ground care on modern British smallholdings. Rooted in post-war craftsmanship, these machines combine classic simplicity with everyday practicality.
 
 ### Hermitage Works Colour Scheme
 
@@ -40,7 +42,9 @@ The company produces the following product lines.
 ## Chobham Line
 ![Chobham Line Logo](../ChobhamLine/Img/Logo-ChobhamLine.png) 
 
-> The Chobham Line is a rugged, utility-focused range from Phillips Brothers, finished in military-inspired olive and graphite. Built for strength and reliability, it’s designed to handle tough farm work with no-nonsense engineering. Tough engineering like ploughs and trailers.
+Tag line: Strength Where It Counts.
+
+> The Chobham Line is Phillips Brothers’ toughest range yet—built for heavy-duty tasks like ploughing, hauling, and ground preparation. With reinforced steel frames and no-nonsense engineering, it’s made to handle the hard graft of the British farm.
 
 | Identifier | Colour Name         | Hex     | RGB            | Use                         |
 |------------|---------------------|---------|----------------|-----------------------------|
@@ -53,11 +57,11 @@ The company produces the following product lines.
 ## Brooklands Range
 ![Brooklands Range Logo](../BrooklandsRange/Img/Logo-BrooklandsRange.png) 
 
+Tag line: Compact Power. Built to Last.
+
 > Inspired by Britain’s legacy of engineering excellence, the Brooklands Range brings a new line of compact, dependable tractors purpose-built for smallholdings and mixed farms.
 > Designed at Hermitage Works and tested in the Surrey clay, these tractors combine modern reliability with traditional sensibilities: straightforward controls, robust mechanics, and the trademark no-nonsense build our name stands for.
 > Whether it’s towing, tilling, or transport — the Brooklands tractor is engineered to deliver, season after season.
->
-> Clean lines. Clear purpose. Quiet strength.
 
 ### Brooklands Range Colour Scheme
 
@@ -114,6 +118,60 @@ The text and border should be the secondary colour.
 The image has a worn, screen-printed feel with a slightly speckled texture, enhancing its vintage and industrial character.
 Overall, the logo evokes mid-century British utility design, matching the historical tone of 1950s farm equipment branding.
 
-# Sales Posters Guidelines
+# Product Sales Posters Guidelines
 
- 
+## Purpose
+Promote the specified product under it's product line with a visually striking, 1950s-style sales page that captures the attention of British smallholders. It should emphasise the values of the product live (eg tradition, utility, and rugged reliability).
+
+## Product line specific
+Some product lines may have specific branding rules which will override these guidelines.
+
+## Visual Style
+Layout: A4 portrait format
+Design Aesthetic: Mid-century British farm journal advert. Slightly worn edges, printed-on-paper texture, and utilitarian simplicity
+Visual Texture: Light grain, halftone or screen-print style speckling
+
+## Colour Palette
+Based on the appropriate colour scheme for the product line.
+Primary background: Product Line colour scheme secondary colour
+Frames/details: Product Line colour scheme Tertiary colour
+Use brand accent tones subtly (e.g. for headings or bullets)
+
+## Headline
+Large bold serif-style headline (condensed, all caps)
+
+## Hero Image
+A photorealistic or illustrated rendering of the product in it's product line livery
+
+Should show the unit clearly—either:
+- Standalone with transparent background
+- Attached to tractor, mid-operation in British hayfield, with background edges gradually blending into the document background.
+
+Style should mimic 1950s sales imagery—clean, slightly idealised, but functionally accurate
+
+## Specification Table
+A bordered, clearly structured chart detailing the mower's key specs that are relevent to the product type.
+
+
+## Key Features Section
+Key features of the product, likely to appeal to farmers, seperate from working specifications (above) 
+Bulleted highlights with a mechanical, practical tone.
+
+## Marketing Copy / Body Text
+Styled in a slightly persuasive but grounded tone,
+
+## Footer
+
+### Availability/Service Tagline:
+“Available through authorised dealers. Parts & service nationwide.”
+
+### Contact Note:
+Phillips Brothers of Surrey – Hermitage Works, est. 1953
+
+Optional small print box with dealer/distributor contact details
+
+## Design Notes
+
+- Use 1950s condensed serif fonts for headings
+- Use classic grotesque sans-serifs for body text (e.g. Gill Sans-style)
+- All text and visual elements should follow the product line logo & colour guidelines from the brand guide
