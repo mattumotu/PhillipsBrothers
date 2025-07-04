@@ -154,8 +154,7 @@ A bordered, clearly structured chart detailing the mower's key specs that are re
 
 
 ## Key Features Section
-Key features of the product, likely to appeal to farmers, seperate from working specifications (above) 
-Bulleted highlights with a mechanical, practical tone.
+Clear bullet points (5–7 items), focusing on practical benefits with a mechanical, practical tone.
 
 ## Marketing Copy / Body Text
 Styled in a slightly persuasive but grounded tone,
