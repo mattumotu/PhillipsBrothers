@@ -4,6 +4,9 @@ http://vieux.tracteurs.free.fr/pdf/FE_20_TE_SERVICE_MANUAL_bis.pdf todo upload a
 
 # Parts
 
+##Catalogues
+https://www.cradocktractors.co.uk/serviceandsparepartslinks/te_20_parts.pdf
+https://issuu.com/qtponline/docs/3_vintage_web/107?fr=sZWIyNjExNDM3MQ
 
 ## Seat
 Start with the important stuff, sitting down.
@@ -14,6 +17,7 @@ Seems like there were a couple of options for original seats:
 - Seat - Alternative to S.61598 - `S.71478`
 S.71478
 9 holes, and an alternative one.
+
 TODIO: upload and link pdf, screenshot page
 https://www.cradocktractors.co.uk/serviceandsparepartslinks/te_20_parts.pdf page 41 for image
 This seems to be a good find as it list oem part numbers, which should help.
